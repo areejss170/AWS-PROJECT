@@ -10,7 +10,7 @@
 
 ## AWS CLI 
 
-update yml file to 
+update gitpod.yml file to 
 ```
 tasks:
   - name: aws-cli
