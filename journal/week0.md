@@ -3,13 +3,12 @@
 
 
 
-#  Week 0 — Digrams 
-
 ## Cruddur logical digram 
 ![Cruddur Logical Digram](https://github.com/user-attachments/assets/8fbf1661-b800-49d6-86bd-b63b2f7c3d75)
 
 ## AWS CLI 
 
+install AWS cli in gitpod VS code 
 update gitpod.yml file to 
 ```
 tasks:
@@ -27,3 +26,6 @@ vscode:
     - 42Crunch.vscode-openapi
 
 ```
+## create Budget 
+### zero spend Budget 
+
