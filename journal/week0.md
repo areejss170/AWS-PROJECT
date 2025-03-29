@@ -27,5 +27,5 @@ vscode:
 
 ```
 ## create Budget 
-### zero spend Budget 
+zero spend Budget has been created to not go above my free trial 
 
